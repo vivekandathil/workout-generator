@@ -22,7 +22,7 @@ public class Generator extends Application {
 	}
 	
     public void start(Stage primaryStage) throws IOException {
-        primaryStage.setTitle("JavaFX WebView Example");
+        primaryStage.setTitle("Vivek K Workout Generator");
         
         Reader reader = new Reader();
         
